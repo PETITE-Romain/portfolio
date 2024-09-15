@@ -1,0 +1,350 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 2000px;
+    background: #3d4042;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    padding: 0 50px;
+}
+
+.navbar h2{
+    color: #ffc567;
+    font-weight: 600;
+}
+
+.navbar ul{
+    display: flex;
+}
+
+.navbar ul li{
+    list-style: none;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    margin-right: 25px;
+    transition: color 0.3s ease;
+}
+
+.navbar ul li:hover a{
+    color: #ffc567;
+}
+
+.navbar ul li:last-child a{
+    margin: 0;
+}
+
+.back-button{
+    background: #ffc567;
+    padding: 6px 30px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+
+.back-button:hover{
+    background: #dfac5b;
+}
+
+.main{
+    height: 1500px;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+
+.main h2{
+    font-size: 50px;
+    color: #fff;
+}
+
+.main p{
+    font-size: 23px;
+    color: #bbbbbb;
+}
+
+.bts_presentation h2{
+    font-size: 50px;
+    color: #fff;
+}
+
+.bts_presentation h3{
+    font-size: 30px;
+    color: #bbbbbb;
+}
+
+.btn_presentation_choice h4{
+    color: #bbbbbb;
+}
+
+.bts_presentation p{
+    font-size: 23px;
+    color: #bbbbbb;
+}
+
+.main{
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.bts_presentation{
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.spe_presentation{
+    height: 500px;
+    width: 1500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.spe_presentation h4{
+    font-size: 25px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+.spe_sisr p{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.spe_slam p{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.hide_sisr_box{
+    visibility: hidden;
+}
+
+.hide_slam_box{
+    visibility: hidden;
+}
+
+.btn_presentation_choice{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn_presentation{
+    width: 400px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#btn_sisr{
+    background: #ffc567;
+    padding: 6px 30px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+
+#btn_sisr:hover{
+    background: #dfac5b;
+}
+
+#btn_slam{
+    background: #ffc567;
+    padding: 6px 30px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+
+#btn_slam:hover{
+    background: #dfac5b;
+}
+
+.btn_sisr_clecked{
+    visibility: hidden;
+}
+
+.presentation_orga {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.presentation_orga ul{
+    margin-left: 30px;
+}
+
+.presentation_orga h3{
+    color: #eeeeee;
+    font-size: 30px;
+}
+
+.presentation_orga ul li{
+    color: #bbbbbb;
+}
+
+.infos_orga h3{
+    color: #eeeeee;
+    font-size: 30px;
+}
+
+.infos_orga {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.infos_orga a{
+    text-decoration: none;
+    color: aqua;
+}
+
+.image_stage{
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+
+.stage_explication{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+.download_cv a{
+    text-decoration: none;
+    color: aqua;
+}
+
+.ml5{
+    position: relative;
+    font-weight: 300;
+}
+
+.ml5 {
+    position: relative;
+    font-weight: 300;
+    font-size: 4.5em;
+    color: #bbbbbb;
+  }
+  
+  .ml5 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.1em;
+    padding-right: 0.05em;
+    padding-bottom: 0.15em;
+    line-height: 1em;
+  }
+  
+  .ml5 .line {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    height: 3px;
+    width: 100%;
+    background-color: #ffc567;
+    transform-origin: 0.5 0;
+  }
+  
+  .ml5 .ampersand {
+    font-family: Baskerville, serif;
+    font-style: italic;
+    font-weight: 400;
+    width: 1em;
+    margin-right: -0.1em;
+    margin-left: -0.1em;
+  }
+  
+  .ml5 .letters {
+    display: inline-block;
+    opacity: 0;
+  }
+
+.image_switch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+}
+
+.competence{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #bbbbbb;
+}
+
+.competence a{
+    text-decoration: none;
+    color: #bbbbbb;
+}
+
+.comp_detail{
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+}
+
+#button{
+    background-color: gray;
+    border: none;
+    color:  black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#button a{
+    text-decoration: none;
+    color: white;
+}

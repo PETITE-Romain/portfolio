@@ -1,0 +1,1189 @@
+{
+    "displayName": "veille technologique",
+    "skills": [
+        {
+            "icon": "",
+            "id": 1,
+            "name": "news",
+            "parents": [],
+            "childs": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                }
+            ],
+            "fillColor": "#bababa",
+            "posX": 514.830625916008,
+            "posY": 205.59115568480888
+        },
+        {
+            "icon": "",
+            "id": 2,
+            "name": "technologie",
+            "parents": [
+                {
+                    "id": 1
+                }
+            ],
+            "childs": [
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 31
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 33
+                },
+                {
+                    "id": 34
+                },
+                {
+                    "id": 35
+                },
+                {
+                    "id": 37
+                },
+                {
+                    "id": 38
+                },
+                {
+                    "id": 39
+                },
+                {
+                    "id": 40
+                },
+                {
+                    "id": 41
+                },
+                {
+                    "id": 42
+                },
+                {
+                    "id": 44
+                },
+                {
+                    "id": 46
+                },
+                {
+                    "id": 48
+                },
+                {
+                    "id": 52
+                },
+                {
+                    "id": 43
+                },
+                {
+                    "id": 54
+                },
+                {
+                    "id": 56
+                },
+                {
+                    "id": 58
+                }
+            ],
+            "fillColor": "#54b847",
+            "lien1": "",
+            "rep1": "",
+            "lien2": "",
+            "rep2": "",
+            "rep3": "",
+            "lien3": "",
+            "posX": 200.67866898317493,
+            "posY": 367.77728274903825
+        },
+        {
+            "icon": "",
+            "id": 3,
+            "name": "personnage",
+            "parents": [
+                {
+                    "id": 1
+                }
+            ],
+            "childs": [
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 30
+                },
+                {
+                    "id": 36
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 47
+                },
+                {
+                    "id": 51
+                },
+                {
+                    "id": 55
+                }
+            ],
+            "fillColor": "#fff700",
+            "posX": 921.3606772550575,
+            "posY": 348.13348013856125
+        },
+        {
+            "icon": "",
+            "id": 4,
+            "name": "évènement",
+            "parents": [
+                {
+                    "id": 1
+                }
+            ],
+            "childs": [
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 41
+                },
+                {
+                    "id": 42
+                },
+                {
+                    "id": 47
+                },
+                {
+                    "id": 48
+                },
+                {
+                    "id": 49
+                },
+                {
+                    "id": 33
+                },
+                {
+                    "id": 50
+                },
+                {
+                    "id": 43
+                },
+                {
+                    "id": 52
+                },
+                {
+                    "id": 53
+                },
+                {
+                    "id": 57
+                }
+            ],
+            "fillColor": "#923f3f",
+            "lien1": "",
+            "rep1": "",
+            "lien2": "",
+            "rep2": "",
+            "posX": 510.06856009819126,
+            "posY": 353.04443079118073
+        },
+        {
+            "icon": "",
+            "id": 5,
+            "name": "T1",
+            "parents": [
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#923f3f",
+            "lien1": "https://www.team-aaa.com/fr/actualite/faker-et-les-t1-remportent-les-worlds-2023-de-league-of-legends-et-decrochent-un-4e-titre-de-champions-du-monde_130943",
+            "rep1": "54",
+            "lien2": "https://www.hitradio.ma/fr/t1-champion-du-monde-de-league-legends-2023-une-victoire-historique",
+            "rep2": "12",
+            "posX": 744.5664537607629,
+            "posY": 1090.9147663472309
+        },
+        {
+            "icon": "",
+            "id": 6,
+            "name": "equipe",
+            "parents": [
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#923f3f",
+            "lien1": "https://www.team-aaa.com/fr/actualite/faker-et-les-t1-remportent-les-worlds-2023-de-league-of-legends-et-decrochent-un-4e-titre-de-champions-du-monde_130944",
+            "rep1": "17",
+            "posX": 603.3766224979577,
+            "posY": 1086.0038156946123
+        },
+        {
+            "icon": "",
+            "id": 7,
+            "name": "titre",
+            "parents": [
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#923f3f",
+            "lien1": "https://www.team-aaa.com/fr/actualite/faker-et-les-t1-remportent-les-worlds-2023-de-league-of-legends-et-decrochent-un-4e-titre-de-champions-du-monde_130943",
+            "rep1": "10",
+            "posX": 485.5138068350941,
+            "posY": 1086.0038156946118
+        },
+        {
+            "icon": "",
+            "id": 8,
+            "name": "intel",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.fredzone.org/intel-les-nouveaux-processeurs-14th-gen-sont-la-rgd532",
+            "rep1": "22",
+            "posX": 74.22168967822734,
+            "posY": 1084.7760780314568
+        },
+        {
+            "icon": "",
+            "id": 9,
+            "name": "fréquence",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.fredzone.org/intel-les-nouveaux-processeurs-14th-gen-sont-la-rgd532",
+            "rep1": "6",
+            "posX": -27.68053636362282,
+            "posY": 1086.0038156946118
+        },
+        {
+            "icon": "",
+            "id": 10,
+            "name": "Processeur",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.fredzone.org/intel-les-nouveaux-processeurs-14th-gen-sont-la-rgd532",
+            "rep1": "14",
+            "rep2": "15",
+            "lien2": "https://www.intel.fr/content/www/fr/fr/products/details/processors/core.html",
+            "posX": 203.1341443094842,
+            "posY": 1083.548340368302
+        },
+        {
+            "icon": "",
+            "id": 11,
+            "name": "Geforce",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.tomshardware.fr/geforce-rtx-5090-nvidia-va-envoyer-du-tres-lourd/",
+            "rep1": "18",
+            "posX": 339.41302491966997,
+            "posY": 1086.0038156946116
+        },
+        {
+            "icon": "",
+            "id": 12,
+            "name": "Nvidia",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.tomshardware.fr/geforce-rtx-5090-nvidia-va-envoyer-du-tres-lourd/",
+            "lien2": "https://www.phonandroid.com/nvidia-rtx-5090-la-carte-graphique-serait-2-fois-plus-puissante-que-la-4090.html",
+            "rep1": "14",
+            "rep2": "30",
+            "posX": -140.6324013738669,
+            "posY": 1086.0038156946116
+        },
+        {
+            "icon": "",
+            "id": 13,
+            "name": "génération",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.phonandroid.com/nvidia-rtx-5090-la-carte-graphique-serait-2-fois-plus-puissante-que-la-4090.html",
+            "lien2": "https://www.rtl.fr/actu/sciences-tech/l-iphone-15-est-disponible-en-france-que-vaut-la-nouvelle-generation-face-a-la-concurrence-7900300983",
+            "rep1": "5",
+            "rep2": "6",
+            "posX": -249.9010533946464,
+            "posY": 1084.7760780314566
+        },
+        {
+            "icon": "",
+            "id": 14,
+            "name": "carte graphique",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.phonandroid.com/nvidia-rtx-5090-la-carte-graphique-serait-2-fois-plus-puissante-que-la-4090.html",
+            "rep1": "21",
+            "posX": -370.21934438381936,
+            "posY": 1087.2315533577664
+        },
+        {
+            "icon": "",
+            "id": 16,
+            "name": "IA",
+            "parents": [
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#007bff",
+            "lien3": "https://www.linternaute.com/hightech/magazine/1277645-keynote-apple-la-prochaine-wwdc-se-tiendra-en-mai/",
+            "rep3": "14",
+            "rep2": "17",
+            "rep1": "17",
+            "lien2": "https://www.decideo.fr/SAS-nomme-Gregoire-Ferreri-au-poste-de-Directeur-general-France_a13507.html#:~:text=SAS%2C%20leader%20de%20l'analytique,tant%20que%20Directeur%20g%C3%A9n%C3%A9ral%20France.",
+            "lien1": "https://www.lebigdata.fr/q-star-tout-savoir",
+            "posX": 1435.7827581169292,
+            "posY": 1092.142504010386
+        },
+        {
+            "icon": "",
+            "id": 17,
+            "name": "Sam Altman",
+            "parents": [
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#fff700",
+            "lien1": "https://www.lebigdata.fr/q-star-tout-savoir",
+            "rep1": "7",
+            "lien2": "https://www.lemonde.fr/pixels/article/2023/11/22/openai-annonce-le-retour-a-sa-tete-de-sam-altman_6201650_4408996.html",
+            "rep2": "7",
+            "posX": 1460.3375113800257,
+            "posY": -122.0900448497371
+        },
+        {
+            "icon": "",
+            "id": 18,
+            "name": "Technique",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.lebigdata.fr/q-star-tout-savoir",
+            "rep1": "7",
+            "posX": -492.9931106993022,
+            "posY": 1089.687028684076
+        },
+        {
+            "icon": "",
+            "id": 19,
+            "name": "LLM",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.lebigdata.fr/q-star-tout-savoir",
+            "rep1": "14",
+            "posX": -489.3098977098376,
+            "posY": 1016.0227688947862
+        },
+        {
+            "icon": "",
+            "id": 20,
+            "name": "Apple",
+            "parents": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#9a813c",
+            "lien1": "https://www.apple.com/fr/newsroom/2023/06/introducing-apple-vision-pro/",
+            "lien2": "https://www.rtl.fr/actu/sciences-tech/l-iphone-15-est-disponible-en-france-que-vaut-la-nouvelle-generation-face-a-la-concurrence-7900300982",
+            "lien3": "https://www.linternaute.com/hightech/magazine/1277645-keynote-apple-la-prochaine-wwdc-se-tiendra-en-mai/",
+            "rep3": "38",
+            "rep2": "16",
+            "rep1": "178",
+            "posX": 880.8453343709484,
+            "posY": -125.77325783920156
+        },
+        {
+            "icon": "",
+            "id": 21,
+            "name": "Ordinateur",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.apple.com/fr/newsroom/2023/06/introducing-apple-vision-pro/",
+            "rep1": "10",
+            "posX": -485.6266847203732,
+            "posY": 937.4475584528775
+        },
+        {
+            "icon": "",
+            "id": 22,
+            "name": "connectés",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "rep1": "10",
+            "lien1": "https://www.apple.com/fr/newsroom/2023/06/introducing-apple-vision-pro/",
+            "posX": -484.3989470572183,
+            "posY": 853.9613973583495
+        },
+        {
+            "icon": "",
+            "id": 23,
+            "name": "iPhone",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.apple.com/fr/newsroom/2023/06/introducing-apple-vision-pro/",
+            "lien2": "https://www.rtl.fr/actu/sciences-tech/l-iphone-15-est-disponible-en-france-que-vaut-la-nouvelle-generation-face-a-la-concurrence-7900300982",
+            "rep1": "16",
+            "rep2": "47",
+            "posX": -481.94347173090864,
+            "posY": 771.7029739269759
+        },
+        {
+            "icon": "",
+            "id": 24,
+            "name": "Vision Pro",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.apple.com/fr/newsroom/2023/06/introducing-apple-vision-pro/",
+            "rep1": "91",
+            "posX": -481.94347173090875,
+            "posY": 689.4445504956027
+        },
+        {
+            "icon": "",
+            "id": 25,
+            "name": "design",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.apple.com/fr/newsroom/2023/06/introducing-apple-vision-pro/",
+            "rep1": "10",
+            "posX": -483.1712093940634,
+            "posY": 612.0970777168486
+        },
+        {
+            "icon": "",
+            "id": 26,
+            "name": "écrans",
+            "parents": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#498042",
+            "lien1": "https://www.apple.com/fr/newsroom/2023/06/introducing-apple-vision-pro/",
+            "rep1": "9",
+            "lien2": "https://www.ouest-france.fr/sante/addictions/ecrans-limites-reseaux-sociaux-proscrits-les-recommandations-du-comite-dexperts-a-emmanuel-macron-61ce2fc8-0622-11ef-ac12-77c719d0efc9#:~:text=Le%20rapport%20remis%20%C3%A0%20l,recommandent%20pas%20avant%2018%20ans%20%C2%BB.",
+            "rep2": "8",
+            "posX": 1467.7039373589553,
+            "posY": 744.6927453375703
+        },
+        {
+            "icon": "",
+            "id": 27,
+            "name": "informatique",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.apple.com/fr/newsroom/2023/06/introducing-apple-vision-pro/",
+            "rep1": "17",
+            "posX": -484.39894705721815,
+            "posY": 463.54082047511463
+        },
+        {
+            "icon": "",
+            "id": 28,
+            "name": "prix",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "rep1": "9",
+            "lien1": "https://www.rtl.fr/actu/sciences-tech/l-iphone-15-est-disponible-en-france-que-vaut-la-nouvelle-generation-face-a-la-concurrence-7900300983",
+            "posX": -484.39894705721815,
+            "posY": 391.1042983489799
+        },
+        {
+            "icon": "",
+            "id": 29,
+            "name": "smartphone",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.rtl.fr/actu/sciences-tech/l-iphone-15-est-disponible-en-france-que-vaut-la-nouvelle-generation-face-a-la-concurrence-7900300983",
+            "rep1": "7",
+            "posX": -489.3098977098374,
+            "posY": 321.1232515491549
+        },
+        {
+            "icon": "",
+            "id": 30,
+            "name": "Grégoire Ferreri",
+            "parents": [
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#fff700",
+            "lien1": "https://www.decideo.fr/SAS-nomme-Gregoire-Ferreri-au-poste-de-Directeur-general-France_a13507.html#:~:text=SAS%2C%20leader%20de%20l'analytique,tant%20que%20Directeur%20g%C3%A9n%C3%A9ral%20France.",
+            "rep1": "8",
+            "posX": 1465.2484620326452,
+            "posY": -43.15265179719749
+        },
+        {
+            "icon": "",
+            "id": 31,
+            "name": "ChatGPT",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.lesnumeriques.com/voiture/ces-2024-volkswagen-greffe-chatgpt-a-l-assistant-vocal-de-ses-voitures-n217255.html",
+            "rep1": "10",
+            "posX": -490.53763537299244,
+            "posY": 242.910223717877
+        },
+        {
+            "icon": "",
+            "id": 32,
+            "name": "volkswagen",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.lesnumeriques.com/voiture/ces-2024-volkswagen-greffe-chatgpt-a-l-assistant-vocal-de-ses-voitures-n217255.html",
+            "rep1": "11",
+            "posX": -488.0821600466828,
+            "posY": 164.33501327596804
+        },
+        {
+            "icon": "",
+            "id": 33,
+            "name": "samsung",
+            "parents": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#9a813c",
+            "lien1": "https://www.lesnumeriques.com/electromenager/ces-2024-immersion-dans-la-cuisine-tres-connectee-de-samsung-n217468.html",
+            "rep1": "18",
+            "lien2": "https://www.lesnumeriques.com/tv-televiseur/ces-2024-samsung-affirme-sa-presence-sur-les-ecrans-transparents-avec-du-micro-led-n217690.html",
+            "rep2": "19",
+            "posX": 993.7971993811918,
+            "posY": -125.41107522857084
+        },
+        {
+            "icon": "",
+            "id": 34,
+            "name": "utilisateur",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.lesnumeriques.com/electromenager/ces-2024-immersion-dans-la-cuisine-tres-connectee-de-samsung-n217468.html",
+            "rep1": "6",
+            "posX": -483.1712093940635,
+            "posY": 15.77875603423405
+        },
+        {
+            "icon": "",
+            "id": 35,
+            "name": "Family Hub",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.lesnumeriques.com/electromenager/ces-2024-immersion-dans-la-cuisine-tres-connectee-de-samsung-n217468.html",
+            "rep1": "11",
+            "posX": -485.6266847203731,
+            "posY": -57.88550375505551
+        },
+        {
+            "icon": "",
+            "id": 36,
+            "name": "Elon Musk",
+            "parents": [
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#fff700",
+            "rep1": "18",
+            "lien1": "https://www.france24.com/fr/%C3%A9co-tech/20240131-tesla-une-r%C3%A9mun%C3%A9ration-de-plus-de-50-milliards-de-dollars-pour-elon-musk-annul%C3%A9e-en-justice",
+            "lien2": "https://www.lepoint.fr/economie/qui-est-l-homme-le-plus-riche-du-monde-entre-jeff-bezos-d-amazon-et-elon-musk-de-tesla-et-space-x-05-03-2024-2554218_28.php",
+            "rep2": "8",
+            "lien3": "https://www.lefigaro.fr/societes/elon-musk-supprime-deux-services-de-chez-tesla-et-licencie-au-moins-500-employes-20240430",
+            "rep3": "8",
+            "posX": 1475.070363337884,
+            "posY": 37.87803397102101
+        },
+        {
+            "icon": "",
+            "id": 37,
+            "name": "Tesla",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.france24.com/fr/%C3%A9co-tech/20240131-tesla-une-r%C3%A9mun%C3%A9ration-de-plus-de-50-milliards-de-dollars-pour-elon-musk-annul%C3%A9e-en-justice",
+            "rep1": "13",
+            "posX": -490.53763537299244,
+            "posY": -124.18333756541611
+        },
+        {
+            "icon": "",
+            "id": 38,
+            "name": "actionnaire",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.france24.com/fr/%C3%A9co-tech/20240131-tesla-une-r%C3%A9mun%C3%A9ration-de-plus-de-50-milliards-de-dollars-pour-elon-musk-annul%C3%A9e-en-justice",
+            "rep1": "6",
+            "posX": -380.04124568905814,
+            "posY": -127.86655055488058
+        },
+        {
+            "icon": "",
+            "id": 39,
+            "name": "rémunération",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.france24.com/fr/%C3%A9co-tech/20240131-tesla-une-r%C3%A9mun%C3%A9ration-de-plus-de-50-milliards-de-dollars-pour-elon-musk-annul%C3%A9e-en-justice",
+            "rep1": "12",
+            "posX": -263.4061676893497,
+            "posY": -129.09428821803527
+        },
+        {
+            "icon": "",
+            "id": 40,
+            "name": "réseau",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.francetvinfo.fr/internet/reseaux-sociaux/facebook/de-facebook-a-meta-cinq-chiffres-qui-montrent-comment-le-reseau-de-mark-zuckerberg-est-devenu-un-geant-economique_6325794.html",
+            "rep1": "14",
+            "posX": -139.4046637107122,
+            "posY": -130.32202588119023
+        },
+        {
+            "icon": "",
+            "id": 41,
+            "name": "Meta",
+            "parents": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#9a813c",
+            "lien1": "https://www.francetvinfo.fr/internet/reseaux-sociaux/facebook/de-facebook-a-meta-cinq-chiffres-qui-montrent-comment-le-reseau-de-mark-zuckerberg-est-devenu-un-geant-economique_6325794.html",
+            "lien2": "https://www.lemonde.fr/pixels/article/2024/03/07/aux-etats-unis-meta-accuse-de-ne-pas-suffisamment-proteger-ses-utilisateurs-contre-les-piratages-de-comptes_6220646_4408996.html",
+            "lien3": "https://www.lemonde.fr/pixels/article/2024/03/07/aux-etats-unis-meta-accuse-de-ne-pas-suffisamment-proteger-ses-utilisateurs-contre-les-piratages-de-comptes_6220646_4408996.html",
+            "rep1": "15",
+            "rep2": "11",
+            "rep3": "11",
+            "posX": 744.5664537607623,
+            "posY": -130.32202588119026
+        },
+        {
+            "icon": "",
+            "id": 42,
+            "name": "Facebook",
+            "parents": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#9a813c",
+            "lien1": "https://www.francetvinfo.fr/internet/reseaux-sociaux/facebook/de-facebook-a-meta-cinq-chiffres-qui-montrent-comment-le-reseau-de-mark-zuckerberg-est-devenu-un-geant-economique_6325794.html",
+            "lien2": "https://www.lemonde.fr/pixels/article/2024/03/07/aux-etats-unis-meta-accuse-de-ne-pas-suffisamment-proteger-ses-utilisateurs-contre-les-piratages-de-comptes_6220646_4408996.html",
+            "rep1": "10",
+            "rep2": "7",
+            "posX": 624.2481627715898,
+            "posY": -129.09428821803542
+        },
+        {
+            "icon": "",
+            "id": 43,
+            "name": "Réseaux sociaux",
+            "parents": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#9a813c",
+            "lien1": "https://www.francetvinfo.fr/internet/reseaux-sociaux/facebook/de-facebook-a-meta-cinq-chiffres-qui-montrent-comment-le-reseau-de-mark-zuckerberg-est-devenu-un-geant-economique_6325794.html",
+            "rep1": "8",
+            "rep2": "16",
+            "lien2": "https://www.lemonde.fr/pixels/article/2023/07/05/emmanuel-macron-suggere-de-bloquer-les-reseaux-sociaux-pendant-les-emeutes_6180622_4408996.html#:~:text=Emmanuel%20Macron%20sugg%C3%A8re%20de%20bloquer%20les%20r%C3%A9seaux%20sociaux%20pendant%20les,%C3%A0%20pr%C3%A9sent%20aux%20r%C3%A9gimes%20autoritaires.",
+            "posX": 1112.8877527072107,
+            "posY": -118.04464924964157
+        },
+        {
+            "icon": "",
+            "id": 44,
+            "name": "tech",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.francetvinfo.fr/internet/reseaux-sociaux/facebook/de-facebook-a-meta-cinq-chiffres-qui-montrent-comment-le-reseau-de-mark-zuckerberg-est-devenu-un-geant-economique_6325794.html",
+            "rep1": "7",
+            "posX": -486.854422383528,
+            "posY": 85.75980283405912
+        },
+        {
+            "icon": "",
+            "id": 46,
+            "name": "femmes",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.lemondeinformatique.fr/actualites/lire-la-part-des-femmes-dans-l-ia-a-la-traine-93178.html",
+            "rep1": "13",
+            "posX": -481.94347173090864,
+            "posY": 536.3395252118802
+        },
+        {
+            "icon": "",
+            "id": 47,
+            "name": "Emmanuel Macron",
+            "parents": [
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#bd9400",
+            "lien1": "https://www.ouest-france.fr/sante/addictions/ecrans-limites-reseaux-sociaux-proscrits-les-recommandations-du-comite-dexperts-a-emmanuel-macron-61ce2fc8-0622-11ef-ac12-77c719d0efc9#:~:text=Le%20rapport%20remis%20%C3%A0%20l,recommandent%20pas%20avant%2018%20ans%20%C2%BB.",
+            "rep1": "6",
+            "lien2": "https://www.lemonde.fr/pixels/article/2023/07/05/emmanuel-macron-suggere-de-bloquer-les-reseaux-sociaux-pendant-les-emeutes_6180622_4408996.html#:~:text=Emmanuel%20Macron%20sugg%C3%A8re%20de%20bloquer%20les%20r%C3%A9seaux%20sociaux%20pendant%20les,%C3%A0%20pr%C3%A9sent%20aux%20r%C3%A9gimes%20autoritaires.",
+            "rep2": "5",
+            "posX": 1470.1594126852644,
+            "posY": 445.4869381384234
+        },
+        {
+            "icon": "",
+            "id": 48,
+            "name": "CES 2024",
+            "parents": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#9a813c",
+            "lien1": "https://www.lesnumeriques.com/salon/ces-consumer-electronics-show-e1407.html",
+            "rep1": "66",
+            "rep2": "6",
+            "lien2": "https://www.frandroid.com/events/ces",
+            "rep3": "8",
+            "lien3": "https://www.lesnumeriques.com/tv-televiseur/ces-2024-samsung-affirme-sa-presence-sur-les-ecrans-transparents-avec-du-micro-led-n217690.html",
+            "posX": 505.1576094455712,
+            "posY": -125.41107522857041
+        },
+        {
+            "icon": "",
+            "id": 49,
+            "name": "innovations",
+            "parents": [
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#8f3f3f",
+            "lien1": "https://www.lesnumeriques.com/salon/ces-consumer-electronics-show-e1407.html",
+            "rep1": "6",
+            "posX": 873.4789083920191,
+            "posY": 1082.682785315778
+        },
+        {
+            "icon": "",
+            "id": 50,
+            "name": "Micro-Led",
+            "parents": [
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#8f3f3f",
+            "lien1": "https://www.lesnumeriques.com/tv-televiseur/ces-2024-samsung-affirme-sa-presence-sur-les-ecrans-transparents-avec-du-micro-led-n217690.html",
+            "rep1": "9",
+            "posX": 991.3417240548824,
+            "posY": 1083.9105229789327
+        },
+        {
+            "icon": "",
+            "id": 51,
+            "name": "Bill GATES",
+            "parents": [
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#fff700",
+            "lien1": "https://www.auditsi.eu/?page_id=2392",
+            "rep1": "7",
+            "lien2": "https://www.20minutes.fr/high-tech/4038214-20230524-bill-gates-ia-va-rendre-amazon-moteurs-recherche-inutiles",
+            "rep2": "7",
+            "lien3": "https://www.huffingtonpost.fr/international/article/le-depart-de-bill-gates-de-microsoft-serait-lie-a-une-relation-avec-une-employee_181134.html",
+            "rep3": "13",
+            "posX": 1472.6148880115743,
+            "posY": 116.45324441292985
+        },
+        {
+            "icon": "",
+            "id": 52,
+            "name": "Amazon",
+            "parents": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#9a813c",
+            "lien1": "https://www.20minutes.fr/high-tech/4038214-20230524-bill-gates-ia-va-rendre-amazon-moteurs-recherche-inutiles",
+            "rep1": "5",
+            "lien2": "https://www.lepoint.fr/economie/qui-est-l-homme-le-plus-riche-du-monde-entre-jeff-bezos-d-amazon-et-elon-musk-de-tesla-et-space-x-05-03-2024-2554218_28.php",
+            "rep2": "6",
+            "posX": 386.06705611955323,
+            "posY": -122.95559990226116
+        },
+        {
+            "icon": "",
+            "id": 53,
+            "name": "mort",
+            "parents": [
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#8f3f3f",
+            "lien1": "https://www.lepoint.fr/high-tech-internet/la-cause-de-la-mort-de-steve-jobs-officiellement-etablie-11-10-2011-1383058_47.php",
+            "rep1": "6",
+            "posX": 1110.4322773809006,
+            "posY": 1085.1382606420873
+        },
+        {
+            "icon": "",
+            "id": 54,
+            "name": "iPod",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://vl-media.fr/cetait-en-2001-la-presentation-par-steve-jobs-de-lipod/",
+            "rep1": "16",
+            "lien2": "https://www.lesnumeriques.com/lecteur-mp3/apple-ipod-touch-6g-2015-p27477/test.html",
+            "rep2": "39",
+            "posX": -16.63089739522951,
+            "posY": -129.0942882180353
+        },
+        {
+            "icon": "",
+            "id": 55,
+            "name": "Steve Jobs",
+            "parents": [
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#fff700",
+            "lien2": "https://vl-media.fr/cetait-en-2001-la-presentation-par-steve-jobs-de-lipod/",
+            "rep2": "6",
+            "lien1": "https://www.lepoint.fr/high-tech-internet/la-cause-de-la-mort-de-steve-jobs-officiellement-etablie-11-10-2011-1383058_47.php",
+            "rep1": "7",
+            "posX": 1471.3871503484193,
+            "posY": 186.43429121275477
+        },
+        {
+            "icon": "",
+            "id": 56,
+            "name": "test",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.lesnumeriques.com/lecteur-mp3/apple-ipod-touch-6g-2015-p27477/test.html",
+            "rep1": "29",
+            "posX": 85.27132864662087,
+            "posY": -127.86655055488046
+        },
+        {
+            "icon": "",
+            "id": 57,
+            "name": "OpenAI",
+            "parents": [
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#8f3f3f",
+            "lien1": "https://www.lemonde.fr/pixels/article/2023/11/22/openai-annonce-le-retour-a-sa-tete-de-sam-altman_6201650_4408996.html",
+            "rep1": "17",
+            "posX": 1209.8790280964415,
+            "posY": 1083.9105229789325
+        },
+        {
+            "icon": "",
+            "id": 58,
+            "name": "tesla",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#54b847",
+            "lien1": "https://www.lefigaro.fr/societes/elon-musk-supprime-deux-services-de-chez-tesla-et-licencie-au-moins-500-employes-20240430",
+            "rep1": "14",
+            "posX": 178.57939104638763,
+            "posY": -127.86655055488046
+        }
+    ],
+    "xOffset": 456.5459698715233,
+    "yOffset": 136.14810459289117,
+    "scale": 0.5145062499999998
+}

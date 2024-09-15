@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="./css.css">
+    <title>Bts</title>
+</head>
+<body>
+    <div class="navbar">
+        <h2>Portfolio</h2>
+        <ul>
+            <li><a href="./index.html">Accueil</a></li>
+            <li><a href="./presentation.html">Présentation</a></li>
+            <li><a href="./bts.html">Bts</a></li>
+            <li><a href="./organisation.html">Organisation</a></li>
+            <li><a href="./stage.html">Stage</a></li>
+            <li><a href="./competence.html">Compétence</a></li>
+            <li><a href="./veille.html">Veille</a></li>
+        </ul>
+        <button class="back-button" onclick="history.back()">Retour</button>
+    </div>
+    <div class="main">
+        <div class="bts_presentation">
+            <h2>Le BTS SIO</h2>
+            <h3>Quel est l'objectif de la formation ?</h3>
+            <p>Lobjectif premier de cette formation sera de former une personne afin quelle soit en capacité de répondre aux attentes utilisateurs.</p>
+            <p>Cela se traduit par l'apprentissage de différentes matières tel que la cybersécurité ou du développement dans différents langage.</p>
+            <p>De plus, l'élève se doit de faire en sorte que les services informatiques fournis doivent être disponible à tout moment.</p>
+        </div>
+        <div class="btn_presentation_choice">
+            <h4>Cliquez sur l'option souhaitée pour en apprendre plus !</h4>
+            <div class="btn_presentation">
+                <button id="btn_sisr">SISR</button>
+                <button id="btn_slam">SLAM</button>
+            </div>
+        </div>
+        <div class="spe_presentation">
+            <div class="spe_sisr hide_sisr_box">
+                <h4>SISR</h4>
+                <p>"Solution d'infrastructure, systèmes et réseaux"</p>
+                <p>Cette option est conseillée pour les élèves souhaitant s'orienter vers des</p>
+                <p>métiers liés à la conception et à la maintenance d'infrastructures réseaux.</p>
+            </div>
+            <div class="spe_slam hide_slam_box">
+                <h4>SLAM</h4>
+                <p>"Solution logicielles et applications métier"</p>
+                <p>Cette solution est conçue afin de déboucher sur des métiers liés à la</p>
+                <p>conception et maintenance de programmes applicatifs</p>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="./js/index.js"></script>
+</html>
