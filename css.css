@@ -295,8 +295,6 @@ body {
   }
   
   .ml5 .ampersand {
-    font-family: Baskerville, serif;
-    font-style: italic;
     font-weight: 400;
     width: 1em;
     margin-right: -0.1em;
@@ -304,6 +302,8 @@ body {
   }
   
   .ml5 .letters {
+    font-family: Baskerville, serif;
+    font-style: italic;
     display: inline-block;
     opacity: 0;
   }
