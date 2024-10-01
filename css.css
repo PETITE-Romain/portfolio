@@ -105,7 +105,6 @@ body {
 }
 
 .bts_presentation{
-    height: 700px;
     display: flex;
     flex-direction: column;
     align-items: center;
