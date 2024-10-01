@@ -103,14 +103,6 @@ body {
     color: #bbbbbb;
 }
 
-.main{
-    height: 700px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
 .bts_presentation{
     height: 700px;
     display: flex;
