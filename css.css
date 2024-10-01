@@ -306,6 +306,7 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: 0;
+    margin-bottom: 70px;
 }
 
 .competence{
@@ -341,6 +342,9 @@ body {
     text-decoration: none;
     color: white;
 }
+
+
+
 
 .oscour{
     margin-top: 0;
