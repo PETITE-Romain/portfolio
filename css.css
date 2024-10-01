@@ -64,7 +64,7 @@ body {
 }
 
 .main{
-    height: 1500px;
+    height: 100%;
     width: 100%;
     box-sizing: border-box;
     display: flex;
@@ -72,6 +72,7 @@ body {
     align-items: center;
     justify-content: center;
     margin-bottom: 70px;
+    margin-top: 80px;
 }
 
 .main h2{
