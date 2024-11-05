@@ -347,8 +347,10 @@ body {
     justify-content: center;
 }
 
-
-
+.sujet-veille h3{
+    font-size: 30px;
+    color: #bbbbbb;
+}
 .oscour{
     margin-top: 0;
 }
