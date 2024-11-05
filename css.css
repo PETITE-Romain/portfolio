@@ -342,6 +342,10 @@ body {
     color: white;
 }
 
+.innoreader {
+    display: flex;
+    justify-content: center;
+}
 
 
 
