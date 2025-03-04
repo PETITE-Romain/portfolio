@@ -383,3 +383,8 @@ section img {
     border-radius: 5px;
     margin-top: 10px;
 }
+
+
+.project a {
+    color: #bbbbbb;
+}
