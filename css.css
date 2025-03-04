@@ -384,6 +384,10 @@ section img {
     margin-top: 10px;
 }
 
+.project {
+    display: flex;
+    align-items: center;
+}
 
 .project a {
     color: #bbbbbb;
