@@ -386,10 +386,26 @@ section img {
 
 .project {
     display: flex;
-    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    padding: 20px;
 }
 
 .project a {
     text-decoration: none;
     color: aqua;
+}
+
+.box {
+    width: 250px;
+    height: 200px;
+    background-color: #ffc567; /* Couleur ajustable */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    font-size: 20px;
+    font-weight: 600;
+    color: #333;
 }
