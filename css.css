@@ -366,7 +366,7 @@ section {
     justify-content: center;
     margin-bottom: 20px;
     padding: 15px;
-    background: #6e6e6e;
+    background: #fffb00;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -378,7 +378,7 @@ section p {
 
 section img {
     max-width: 100%;
-    max-height: 250px;
+    max-height: 350px;
     object-fit: contain;
     border-radius: 5px;
     margin-top: 10px;
