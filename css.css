@@ -356,8 +356,12 @@ body {
     margin-top: 0;
 }
 
-.section {
+.section_code_sso {
     height: 600px;
+}
+
+.section_kustomization {
+    height: 250px;
 }
 
 section {
