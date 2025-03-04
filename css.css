@@ -386,26 +386,50 @@ section img {
 
 .project {
     display: flex;
-    justify-content: center;
-    gap: 40px;
+    justify-content: center; /* Centre les boîtes */
+    gap: 50px; /* Espacement entre les boîtes */
+    flex-wrap: wrap; /* Permet d'aller à la ligne si l'écran est trop petit */
     padding: 20px;
-}
-
-.project a {
-    text-decoration: none;
-    color: aqua;
+    margin-top: 50px;
 }
 
 .box {
-    width: 450px;
-    height: 400px;
-    background-color: #ffc567; /* Couleur ajustable */
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    width: 300px; /* Largeur des boîtes */
+    background-color: #ffc567; /* Couleur de fond */
+    padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-    font-size: 20px;
-    font-weight: 600;
+    text-align: center;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.box:hover {
+    transform: translateY(-5px); /* Légère élévation au survol */
+    background-color: #dfac5b; /* Changement de couleur */
+}
+
+.box h2 {
+    font-size: 22px;
     color: #333;
+    margin-bottom: 10px;
+}
+
+.box p {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+.box a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #3d4042;
+    padding: 8px 12px;
+    border-radius: 5px;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+
+.box a:hover {
+    background-color: #222;
 }
