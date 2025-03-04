@@ -397,8 +397,8 @@ section img {
 }
 
 .box {
-    width: 250px;
-    height: 200px;
+    width: 450px;
+    height: 400px;
     background-color: #ffc567; /* Couleur ajustable */
     display: flex;
     align-items: center;
