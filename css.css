@@ -373,7 +373,7 @@ section {
 
 section p {
     font-size: 16px;
-    color: #333;
+    color: #222;
 }
 
 section img {
@@ -386,16 +386,16 @@ section img {
 
 .project {
     display: flex;
-    justify-content: center; /* Centre les boîtes */
-    gap: 50px; /* Espacement entre les boîtes */
-    flex-wrap: wrap; /* Permet d'aller à la ligne si l'écran est trop petit */
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
     padding: 20px;
     margin-top: 50px;
 }
 
 .box {
-    width: 300px; /* Largeur des boîtes */
-    background-color: #ffc567; /* Couleur de fond */
+    width: 300px;
+    background-color: #ffc567;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
@@ -404,8 +404,8 @@ section img {
 }
 
 .box:hover {
-    transform: translateY(-5px); /* Légère élévation au survol */
-    background-color: #dfac5b; /* Changement de couleur */
+    transform: translateY(-5px);
+    background-color: #dfac5b;
 }
 
 .box h2 {
