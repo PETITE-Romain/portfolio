@@ -390,5 +390,6 @@ section img {
 }
 
 .project a {
-    color: #bbbbbb;
+    text-decoration: none;
+    color: aqua;
 }
