@@ -36,7 +36,7 @@ body {
 .navbar ul li a{
     text-decoration: none;
     color: #fff;
-    font-size: 16px;
+    font-size: 21px;
     margin-right: 25px;
     transition: color 0.3s ease;
 }
@@ -53,7 +53,7 @@ body {
     background: #ffc567;
     padding: 6px 30px;
     border: none;
-    font-size: 16px;
+    font-size: 21px;
     cursor: pointer;
     border-radius: 6px;
     transition: background-color 0.3s ease;
@@ -76,22 +76,22 @@ body {
 }
 
 .main h2{
-    font-size: 50px;
+    font-size: 55px;
     color: #fff;
 }
 
 .main p{
-    font-size: 23px;
+    font-size: 28px;
     color: #bbbbbb;
 }
 
 .bts_presentation h2{
-    font-size: 50px;
+    font-size: 55px;
     color: #fff;
 }
 
 .bts_presentation h3{
-    font-size: 30px;
+    font-size: 35px;
     color: #bbbbbb;
 }
 
@@ -100,7 +100,7 @@ body {
 }
 
 .bts_presentation p{
-    font-size: 23px;
+    font-size: 28px;
     color: #bbbbbb;
 }
 
@@ -120,21 +120,21 @@ body {
 }
 
 .spe_presentation h4{
-    font-size: 25px;
+    font-size: 30px;
     color: #fff;
     display: flex;
     justify-content: center;
 }
 
 .spe_sisr p{
-    font-size: 20px;
+    font-size: 25px;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
 .spe_slam p{
-    font-size: 20px;
+    font-size: 25px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -167,7 +167,7 @@ body {
     background: #ffc567;
     padding: 6px 30px;
     border: none;
-    font-size: 16px;
+    font-size: 21px;
     cursor: pointer;
     border-radius: 6px;
     transition: background-color 0.3s ease;
@@ -181,7 +181,7 @@ body {
     background: #ffc567;
     padding: 6px 30px;
     border: none;
-    font-size: 16px;
+    font-size: 21px;
     cursor: pointer;
     border-radius: 6px;
     transition: background-color 0.3s ease;
@@ -208,7 +208,7 @@ body {
 
 .presentation_orga h3{
     color: #eeeeee;
-    font-size: 30px;
+    font-size: 35px;
 }
 
 .presentation_orga ul li{
@@ -217,7 +217,7 @@ body {
 
 .infos_orga h3{
     color: #eeeeee;
-    font-size: 30px;
+    font-size: 35px;
 }
 
 .infos_orga {
@@ -309,7 +309,7 @@ body {
 }
 
 .competence{
-    font-size: 35px;
+    font-size: 40px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -335,7 +335,7 @@ body {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 21px;
 }
 
 #button a{
@@ -349,7 +349,7 @@ body {
 }
 
 .sujet-veille{
-    font-size: 30px;
+    font-size: 35px;
     color: #bbbbbb;
 }
 .oscour{
@@ -381,7 +381,7 @@ section {
 }
 
 .main section p {
-    font-size: 23px;
+    font-size: 28px;
     color: black;
 }
 
@@ -418,13 +418,13 @@ section img {
 }
 
 .box h2 {
-    font-size: 22px;
+    font-size: 27px;
     color: #333;
     margin-bottom: 10px;
 }
 
 .box p {
-    font-size: 16px;
+    font-size: 21px;
     color: #555;
     margin-bottom: 15px;
 }
