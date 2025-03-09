@@ -442,3 +442,7 @@ section img {
 .box a:hover {
     background-color: #222;
 }
+
+.img-innoreader {
+    margin-top: 50px;
+}
