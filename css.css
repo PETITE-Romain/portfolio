@@ -448,3 +448,8 @@ section img {
     display: flex;
     justify-content: center;
 }
+
+.tableau_competence {
+    text-decoration: none;
+    color: #bbbbbb;
+}
